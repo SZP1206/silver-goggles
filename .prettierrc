@@ -1,7 +1,8 @@
 {
-  "printWidth": 300,
+  "printWidth": 230,
   "tabWidth": 2,
   "singleQuote": true,
   "semi": false,
-  "trailingComma": false,
+  "trailingComma": "none",
+  "space-before-function-paren": true
 }
